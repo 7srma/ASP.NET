@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bookteq - Sports Facility Booking</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light custom-navbar sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="assets/asd.png" alt="Logo" class="img-fluid" style="max-width: 50px; height: auto;">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <!-- Left side content can go here (if any) -->
+                </ul>
+
+                <!-- Center these items -->
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#activity-tab" onclick="switchTab('activity')">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#facility-tab" onclick="switchTab('facility')">Facility</a>
+                    </li>
+                </ul>
+                
+
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="btn btn-outline-primary mx-2" href="SignIn\singin.html">Sign In</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-danger" href="#">Book Demo</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-section text-white">
+        <div class="container-fluid h-100">
+            <div class="row h-100">
+                <!-- Left Side: Text (30% of middle 60%) -->
+                <div class="col-md-6 d-flex align-items-center">
+                    <div class="hero-text text-start">
+                        <h1 class="display-5 fw-bold">
+                            Game Arena with in-store facility for all your gaming needs!
+                        </h1>
+                        <p class="lead">
+                            "Step into our Game Arena for an immersive gaming experience, featuring a wide range of games and an in-store facility offering the latest gear and accessories, all in one place!"
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Right Side: Image (30% of middle 60%) -->
+                <div class="col-md-6 d-flex align-items-center justify-content-center">
+                    <img src="assets\image.png"
+                        alt="Hero Image" class="hero-image" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- DUmmy companies-->
+    <section class="container my-5">
+        <!-- Stats Section -->
+        <div class="row text-center mb-5">
+            <div class="col-md-4">
+                <h2><span class="count" data-target="1380">1000</span></h2>
+                <p>Total active member</p>
+            </div>
+            <div class="col-md-4">
+                <h2><span class="count" data-target="3000">2000+</span></h2>
+                <p>Product sold</p>
+            </div>
+            <div class="col-md-4">
+                <h2><span class="count" data-target="10">9.8/10</span></h2>
+                <p>Customer Satisfaction Rate</p>
+            </div>
+        </div>
+
+        <!-- Carousel Section -->
+        <div id="logoCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner text-center">
+                <div class="carousel-item active">
+                    <img src="assets\13-150x150.png" class="d-inline-block" alt="Logo 1" />
+                    <img src="assets\21-150x150.png" class="d-inline-block" alt="Logo 2" />
+                    <img src="assets\23-150x150.png" class="d-inline-block" alt="Logo 3" />
+                </div>
+                <div class="carousel-item">
+                    <img src="assets\26-150x150.png" class="d-inline-block" alt="Logo 4" />
+                    <img src="assets\27-150x150.png" class="d-inline-block" alt="Logo 5" />
+                    <img src="assets\28-150x150.png" class="d-inline-block" alt="Logo 6" />
+                </div>
+                <div class="carousel-item">
+                    <img src="assets\28-150x150.png" class="d-inline-block" alt="Logo 7" />
+                    <img src="assets\20-150x150.png" class="d-inline-block" alt="Logo 2" />
+                    <img src="assets\23-150x150.png" class="d-inline-block" alt="Logo 3" />
+                    <!-- Add more logos here as needed -->
+                </div>
+            </div>
+            <!-- Carousel Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#logoCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#logoCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+    <!-- Functions -->
+    <section class="container py-5">
+        <h2 class="text-center mb-4">Our Services</h2>
+
+        <!-- Tabs -->
+        <ul class="nav nav-tabs justify-content-center mb-4" id="bookteqTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="facility-tab" data-bs-toggle="tab" data-bs-target="#facility"
+                    type="button" role="tab" aria-controls="facility" aria-selected="true">Facility Types</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="activity-tab" data-bs-toggle="tab" data-bs-target="#activity" type="button"
+                    role="tab" aria-controls="activity" aria-selected="false">Product Type</button>
+            </li>
+        </ul>
+
+        <!-- Tab Content -->
+        <div class="tab-content" id="bookteqTabContent">
+            <!-- Facility Types Tab -->
+            <div class="tab-pane fade show active" id="facility" role="tabpanel" aria-labelledby="facility-tab">
+                <div class="row" id="1">
+                    <div class="col-md-4">
+                        <div class="card card-hover">
+                            <img src="assets/indoor.png" alt="Grass Pitches" class="card-img-top">
+                            <div class="card-body text-center">
+                                <p>Indoor turf</p>
+                            </div>
+                            <div class="card-description">
+                                <p>Indoor turf is synthetic grass used in sports facilities, ideal for activities like soccer and football. It's durable, weatherproof, and safe, with low maintenance needs. It can be installed over various surfaces and is common in sports complexes and schools.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card card-hover">
+                            <img src="assets/image (1).png" alt="All Weather Pitches" class="card-img-top">
+                            <div class="card-body text-center">
+                                <p>Outdoor Field</p>
+                            </div>
+                            <div class="card-description">
+                                <p>An outdoor field is a designated area for sports and recreation, featuring either natural grass or synthetic turf. It varies in size based on the sport and includes amenities like goals and seating, used for organized games, practices, and community events..</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card card-hover">
+                            <img src="assets/image (2).png" alt="Sports Halls" class="card-img-top">
+                            <div class="card-body text-center">
+                                <p>Swimming Center</p>
+                            </div>
+                            <div class="card-description">
+                                <p>A swimming center is a facility with pools for swimming and water activities, offering lessons, fitness programs, and recreational sessions. It typically includes amenities like locker rooms and safety features, serving individuals, families, and teams..</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <!-- Product Types Tab -->
+            <div class="tab-pane fade" id="activity" role="tabpanel" aria-labelledby="activity-tab">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card card-hover">
+                            <img src="assets/foot.png" alt="Swimming" class="card-img-top">
+                            <div class="card-body text-center">
+                                <p>Football</p>
+                            </div>
+                            <div class="card-description">
+                                <p>Football accessories include a ball, cleats for traction, shin guards for protection, goalkeeper gloves, and lightweight jerseys and shorts, all essential for player performance and safety during matches.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card card-hover">
+                            <img src="assets/cric.png" alt="Tennis" class="card-img-top">
+                            <div class="card-body text-center">
+                                <p>Cricket</p>
+                            </div>
+                            <div class="card-description">
+                                <p>Cricket accessories include bats, balls, protective gear (pads, gloves, helmets), specialized clothing, and footwear, all essential for player performance, safety, and comfort during matches.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="card card-hover">
+                            <img src="assets/swim.png" alt="Basketball" class="card-img-top">
+                            <div class="card-body text-center">
+                                <p>Swimming</p>
+                            </div>
+                            <div class="card-description">
+                                <p>Swimming accessories include swimwear, goggles for eye protection, swim caps for reducing drag, kickboards for training, and towels, all essential for comfort, performance, and safety in the water.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>    
+    <!-- Fillable form contact or feedback-->
+    <section class="contact-section py-5 text-center">
+        <div class="container mx-auto" style="max-width: 600px">
+            <h2 class="text-white">Let's get started.</h2>
+            <p class="text-secondary">
+                Speak to one of our consultants to learn more.
+            </p>
+
+            <form class="contact-form bg-dark p-4 rounded">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="firstName" class="form-label text-white">First name*</label>
+                        <input type="text" id="firstName" name="firstName" class="form-control" required />
+                    </div>
+
+                    <div class="col-md-6 mb-3">
+                        <label for="lastName" class="form-label text-white">Last name*</label>
+                        <input type="text" id="lastName" name="lastName" class="form-control" required />
+                    </div>
+                </div>
+
+                <div class="mb-3">
+                    <label for="email" class="form-label text-white">Email address*</label>
+                    <input type="email" id="email" name="email" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="phone" class="form-label text-white">Phone number*</label>
+                    <input type="tel" id="phone" name="phone" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label for="venueName" class="form-label text-white">Venue or Operator Name*</label>
+                    <input type="text" id="venueName" name="venueName" class="form-control" required />
+                </div>
+
+                <div class="mb-4">
+                    <label for="clientType" class="form-label text-white">Client Type*</label>
+                    <select id="clientType" name="clientType" class="form-select" required>
+                        <option value="" disabled selected>Please Select</option>
+                        <option value="venue">Venue</option>
+                        <option value="operator">Operator</option>
+                    </select>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-danger btn-block">
+                        Register
+                    </button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- About -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <section id="about" class="container py-5">
+        <div class="row justify-content-center text-center">
+            <div class="col-md-6">
+                <p>
+                    <i class="fas fa-map-marker-alt"></i>
+                    66-67 Newman St., Fitzrovia, London, W1T 3EQ
+                </p>
+                <p>
+                    <i class="fas fa-phone"></i>
+                    +44 333 300 3465
+                </p>
+                <p>
+                    Mon - Thu: 09:00-19:00<br>
+                    Fri: 09:00-18:00<br>
+                    Sat-Sun: 09:00-17:00
+                </p>
+                <p>
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:hello@bookteq.com">hello@bookteq.com</a>
+                </p>
+                <button class="btn btn-primary mt-2">Chat Now</button>
+
+                <div class="mt-4">
+                    <a href="#" class="text-dark mx-2">
+                        <i class="fab fa-facebook fa-2x"></i>
+                    </a>
+                    <a href="#" class="text-dark mx-2">
+                        <i class="fab fa-twitter fa-2x"></i>
+                    </a>
+                    <a href="mailto:hello@bookteq.com" class="text-dark mx-2">
+                        <i class="fas fa-envelope fa-2x"></i>
+                    </a>
+                    <a href="#" class="text-dark mx-2">
+                        <i class="fab fa-linkedin fa-2x"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <!-- Footer -->
+    <footer class="bg-light text-center py-3">
+        <p>&copy; 2024 Bookteq. All Rights Reserved.</p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+
+</html>

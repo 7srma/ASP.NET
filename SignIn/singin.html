@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Main container: takes full height of the screen -->
+<div class="container-fluid min-vh-100 d-flex">
+  <!-- Bootstrap row to manage 50/50 layout -->
+  <div class="row w-100">
+    
+    <!-- Left Side: Form (col-md-6 for 50% width on medium screens and larger) -->
+    <div class="col-md-6 d-flex flex-column justify-content-center p-5">
+      <!-- Form Header -->
+      <h2 class="mb-4">WELCOME BACK</h2>
+      <p class="mb-4">Welcome back! Please enter your details.</p>
+
+      <!-- Email Input -->
+      <div class="mb-3">
+        <input type="email" class="form-control" placeholder="Enter your email" required>
+      </div>
+
+      <!-- Password Input -->
+      <div class="mb-3">
+        <input type="password" class="form-control" placeholder="**********" required>
+      </div>
+
+      <!-- Remember me and Forgot Password -->
+      <div class="d-flex justify-content-between mb-4">
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="rememberMe">
+          <label class="form-check-label" for="rememberMe">Remember me</label>
+        </div>
+        <a href="#" class="text-muted">Forgot password</a>
+      </div>
+
+      <!-- Sign In Button -->
+      <button class="btn btn-danger w-100 rounded-pill fw-bold mb-3">Sign in</button>
+
+      <!-- Google Sign In -->
+      <button class="btn btn-outline-secondary w-100 rounded-pill fw-bold d-flex align-items-center justify-content-center">
+        <img src="..\assets\free-icon-google-300221 1.png" alt="Google Icon" style="width: 20px; margin-right: 8px;">
+        Sign in with Google
+      </button>
+
+      <!-- Sign Up Link -->
+      <p class="text-center mt-3">
+        Don’t have an account? <a href="#">Sign up for free!</a>
+      </p>
+    </div>
+    
+    <!-- Right Side: Illustration (col-md-6 for 50% width, hidden on smaller screens) -->
+    <div class="col-md-6 d-none d-md-block">
+      <img src="../assets/Right_Side.jpg" alt="Right Side Illustration" class="img-fluid" style="width: 100%; height: 100vh; object-fit: contain;">
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

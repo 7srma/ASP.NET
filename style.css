@@ -1,0 +1,199 @@
+.custom-navbar {
+  background-color: rgba(253, 254, 254, 0.8); /* Darker blue tint */
+  color: #ffffff; /* White text */
+}
+
+/* Hero Section Styles */
+.hero-section {
+  height: 100vh;
+  background-image: url("assets/marcos-moraes-rFehnP5wN4Q-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply; /* This blends the image and color */
+  background-color: rgba(0, 0, 139, 0.2); /* Use rgba for transparency */
+  display: flex;
+  align-items: center; /* Vertically center the content */
+}
+
+/* The container will take up 60% of the width */
+.container-fluid {
+  max-width: 80%;
+  margin-left: 10%; /* 20% margin on the left */
+  margin-right: 10%; /* 20% margin on the right */
+}
+
+/* Styling for the hero text */
+.hero-text {
+  max-width: 100%;
+  padding: 20px; /* Optional padding for spacing */
+}
+
+/* Hero image with shadow effect */
+.hero-image {
+  max-width: 100%; /* Ensures the image doesn't overflow */
+  border-radius: 10px;
+  /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); */
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(30px); /* Optional, gives a slide-up effect */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-section .hero-text {
+  animation: fadeIn 1s ease-in-out 0.5s both; /* Text will fade in after 0.5 seconds */
+}
+
+.hero-section .hero-image {
+  animation: fadeIn 1s ease-in-out 0.5s both; /* Image will fade in after 1 second */
+}
+
+.hero-section {
+  position: relative; /* Optional: Can help with positioning if needed */
+}
+
+.hero-image {
+  max-width: 100%; /* Make sure image doesn't overflow */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.carousel-item img {
+  width: 150px;
+  margin: 10px;
+}
+
+h2 {
+  color: #ff0055;
+}
+
+p {
+  font-size: 18px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  z-index: 1; /* Make sure the controls appear above the carousel images */
+  width: 5%; /* Adjust the width for better clickable area */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Darken the arrow background for better visibility */
+  border-radius: 50%; /* Optional: Give the icons a rounded look */
+}
+
+.carousel-inner {
+  position: relative; /* Ensure that the controls are positioned relative to the carousel */
+}
+
+@media (max-width: 768px) {
+  .hero-section .hero-text {
+    padding: 20px; /* Adjust padding for mobile */
+  }
+
+  .hero-section img {
+    max-width: 70%; /* Make the image smaller on mobile */
+    width: 100%; /* Ensure it takes full width up to max-width */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 auto; /* Center the image */
+    display: block; /* Ensure proper centering */
+  }
+
+  /* Add spacing between sections */
+  .hero-section {
+    margin-bottom: 50px; /* Add margin to avoid overlapping */
+  }
+
+  /* Ensure carousel has enough space */
+  .carousel {
+    margin-top: 20px;
+  }
+}
+
+
+/* Form Fillup style */
+.contact-section {
+  background-color: #0e1332;
+  margin: 0%;
+  padding: 0%;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-secondary {
+  color: #b3b3b3;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+/* Functionality */
+.tab-content img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.card-body p {
+  font-weight: bold;
+}
+
+.card-hover {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-hover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-hover img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card-hover:hover img {
+  transform: scale(1.1);
+}
+
+/* Hidden description div */
+.card-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(100%);
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+/* Show description on hover */
+.card-hover:hover .card-description {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Add padding to the bottom of the card to prevent overlap */
+.card {
+  padding-bottom: 50px; /* Adjust as needed */
+}
