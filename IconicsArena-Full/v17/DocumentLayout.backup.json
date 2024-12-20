@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\context\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\context\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\context\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\order\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\order\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\context\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\context\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\context\\footballarena.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\context\\footballarena.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|c:\\users\\abu sufian rupok\\downloads\\dot net project\\dot net project\\iconicsarena\\iconicsarena\\iconicsarena\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\user\\getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\user\\getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\slots\\editslot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\slots\\editslot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\order\\purchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\order\\purchasehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\account\\editaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\account\\editaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\order\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\order\\statistics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\product\\showproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\product\\showproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\slots\\showslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\slots\\showslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\controllers\\api\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\controllers\\api\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\iconicsarena\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC98971-3F74-48FA-98CE-C22B80847087}|IconicsArena\\IconicsArena.csproj|solutionrelative:iconicsarena\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Sale.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Context\\Sale.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Sale.cs",
+              "RelativeToolTip": "IconicsArena\\Context\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:46:07.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Order.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Context\\Order.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Order.cs",
+              "RelativeToolTip": "IconicsArena\\Context\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:45:46.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "IconicsArena\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvysAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:44:55.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IconicsArena\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAADwv9IAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:42:39.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Context\\Product.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Product.cs",
+              "RelativeToolTip": "IconicsArena\\Context\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:33:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Slot.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Context\\Slot.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\Slot.cs",
+              "RelativeToolTip": "IconicsArena\\Context\\Slot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:32:48.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FootballArena.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\FootballArena.edmx",
+              "RelativeDocumentMoniker": "IconicsArena\\Context\\FootballArena.edmx",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Context\\FootballArena.edmx [Diagram1]",
+              "RelativeToolTip": "IconicsArena\\Context\\FootballArena.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-30T01:31:38.377Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:21:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Statistics.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Order\\Statistics.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Order\\Statistics.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Order\\Statistics.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Order\\Statistics.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:52:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShowSlots.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Slots\\ShowSlots.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Slots\\ShowSlots.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Slots\\ShowSlots.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Slots\\ShowSlots.cshtml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:45:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:40:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:27:31.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Order\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Order\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Order\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Order\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:25:31.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Product\\ShowProducts.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Product\\ShowProducts.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Product\\ShowProducts.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Product\\ShowProducts.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:09:00.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Web.config",
+              "RelativeDocumentMoniker": "IconicsArena\\Web.config",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Web.config",
+              "RelativeToolTip": "IconicsArena\\Web.config",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAD7AQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T19:59:03.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PurchaseHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Order\\PurchaseHistory.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Order\\PurchaseHistory.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Order\\PurchaseHistory.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Order\\PurchaseHistory.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T18:27:30.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Account\\EditAccount.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Account\\EditAccount.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Account\\EditAccount.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Account\\EditAccount.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T20:53:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditSlot.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Slots\\EditSlot.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\Slots\\EditSlot.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\Slots\\EditSlot.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\Slots\\EditSlot.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T21:02:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "IconicsArena\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:17:30.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "IconicsArena\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:02:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\User\\GetUsers.cshtml",
+              "RelativeDocumentMoniker": "IconicsArena\\Views\\User\\GetUsers.cshtml",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Views\\User\\GetUsers.cshtml",
+              "RelativeToolTip": "IconicsArena\\Views\\User\\GetUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T17:46:52.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\api\\UsersController.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Controllers\\api\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\api\\UsersController.cs",
+              "RelativeToolTip": "IconicsArena\\Controllers\\api\\UsersController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:36:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IconicsArena\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Abu Sufian Rupok\\Downloads\\Dot Net Project\\Dot Net Project\\IconicsArena\\IconicsArena\\IconicsArena\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IconicsArena\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:34:57.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
